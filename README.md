@@ -6,7 +6,42 @@ FR only - Pourquoi le mode de scrutin de votre pays n'est pas le meilleur
 ---
 
 ## Sommaire
-[TOC]
+* [Voting Systems Comparison](#voting-systems-comparison)
+    * [Sommaire](#sommaire)
+    * [Introduction](#introduction)
+    * [Contexte](#contexte)
+    * [Cadre de travail](#cadre-de-travail)
+    * [Méthodes de scrutin](#méthodes-de-scrutin)
+        * [Scrutin uninominal majoritaire](#scrutin-uninominal-majoritaire)
+            * [À un tour](#à-un-tour)
+            * [À deux tours](#à-deux-tours)
+            * [À N tours (élimination au tour par tour)](#à-n-tours-(élimination-au-tour-par-tour))
+        * [Préférences multiples ordonnées](#préférences-multiples-ordonnées)
+            * [Vote alternatif](#vote-alternatif)
+            * [Méthode de Condorcet (combats 1v1)](#méthode-de-condorcet-(combats-1v1))
+            * [Méthode de Borda (n points au premier)](#méthode-de-borda-(n-points-au-premier))
+            * [Panachage](#panachage)
+        * [Vote pondéré](#vote-pondéré)
+        * [Vote par valeur](#vote-par-valeur)
+            * [Vote par approbation](#vote-par-approbation)
+            * [Vote par note](#vote-par-note)
+            * [Jugement majoritaire](#jugement-majoritaire)
+    * [Problèmes](#problèmes)
+        * [présences d'autres "petits candidats"](#présences-d'autres-"petits-candidats")
+        * [vote utile ou protestataire : stratégique](#vote-utile-ou-protestataire-:-stratégique)
+        * [un seul avis exprimé](#un-seul-avis-exprimé)
+        * [Paradoxe d'arrow (+ de voies - de chances)](#paradoxe-d'arrow-(+-de-voies---de-chances))
+        * [éventuelle indécidabilité](#éventuelle-indécidabilité)
+        * [critère de condorcet](#critère-de-condorcet)
+    * [Tableau comparatif](#tableau-comparatif)
+    * [Théorème d'impossibilité](#théorème-d'impossibilité)
+        * [Classement](#classement)
+        * [Jugement](#jugement)
+    * [Dans le monde](#dans-le-monde)
+    * [Conclusion](#conclusion)
+    * [Crédits](#crédits)
+
+<!-- table of contents created by Adrian Bonnet, see https://github.com/Relex12/Markdown-Table-of-Contents for more -->
 
 ## Introduction
 
